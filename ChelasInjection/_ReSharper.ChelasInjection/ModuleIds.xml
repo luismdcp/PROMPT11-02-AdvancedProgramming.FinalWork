@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="0A9F133C-457E-4A47-A615-59ACB5C970F9" ModuleId="ChelasInjection.SampleTypes" />
+  <Module PersistentId="03A2C558-4A36-4B14-AD60-190FAF5AE27B" ModuleId="ChelasInjection.Tests" />
+  <Module PersistentId="6666CD41-C05E-43B4-B43E-B41B5871E8DB" ModuleId="ChelasInjection" />
+</Modules>

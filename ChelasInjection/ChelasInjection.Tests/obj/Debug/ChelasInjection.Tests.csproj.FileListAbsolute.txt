@@ -1,0 +1,11 @@
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.Tests\bin\Debug\ChelasInjection.Tests.dll
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.Tests\bin\Debug\ChelasInjection.Tests.pdb
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.Tests\bin\Debug\ChelasInjection.dll
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.Tests\bin\Debug\ChelasInjection.SampleTypes.dll
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.Tests\bin\Debug\nunit.framework.dll
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.Tests\bin\Debug\ChelasInjection.SampleTypes.pdb
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.Tests\bin\Debug\ChelasInjection.pdb
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.Tests\bin\Debug\nunit.framework.xml
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.Tests\obj\Debug\ChelasInjection.Tests.dll
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.Tests\obj\Debug\ChelasInjection.Tests.pdb

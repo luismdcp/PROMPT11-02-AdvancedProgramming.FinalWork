@@ -1,0 +1,7 @@
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.SampleTypes\bin\Debug\ChelasInjection.SampleTypes.dll
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.SampleTypes\bin\Debug\ChelasInjection.SampleTypes.pdb
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.SampleTypes\bin\Debug\ChelasInjection.dll
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.SampleTypes\bin\Debug\ChelasInjection.pdb
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.SampleTypes\obj\Debug\ResolveAssemblyReference.cache
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.SampleTypes\obj\Debug\ChelasInjection.SampleTypes.dll
+C:\PROMPT11\uc02\repos\PROMPT11-02-AdvancedProgramming.FinalWork\ChelasInjection\ChelasInjection.SampleTypes\obj\Debug\ChelasInjection.SampleTypes.pdb

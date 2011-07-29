@@ -1,0 +1,420 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:SomeClass12.cs" caret="0" fromTop="0" />
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:SomeClass5.cs" caret="0" fromTop="0" />
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:ISomeInterface8.cs" caret="0" fromTop="0" />
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:ISomeInterface7.cs" caret="0" fromTop="0" />
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:SomeClass10.cs" caret="0" fromTop="0" />
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:SomeInterface7And8Yellow.cs" caret="0" fromTop="0" />
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:SomeInterface7And8Red.cs" caret="102" fromTop="5" />
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/d:Attributes/f:RedAttribute.cs" caret="10" fromTop="0" />
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:SomeClass14.cs" caret="0" fromTop="0" />
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:SomeInterface7Default.cs" caret="0" fromTop="0" />
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:SomeClass13.cs" caret="0" fromTop="0" />
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:SomeClass11.cs" caret="0" fromTop="0" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/d:Exceptions/f:DuplicateConfigurationException.cs" caret="0" fromTop="0" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/d:Exceptions/f:DIChelasException.cs" caret="544" fromTop="6" />
+      <File id="03A2C558-4A36-4B14-AD60-190FAF5AE27B/f:MyCustomResolver.cs" caret="2828" fromTop="12" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/d:Exceptions/f:MissingAppropriateConstructor.cs" caret="220" fromTop="6" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:ActivationBinder.cs" caret="156" fromTop="4" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:DefaultConstructorAttribute.cs" caret="0" fromTop="0" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/d:Contracts/f:IActivationBinder.cs" caret="17" fromTop="0" />
+      <File id="03A2C558-4A36-4B14-AD60-190FAF5AE27B/f:MyBinder.cs" caret="2643" fromTop="28" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/d:Contracts/f:IConstructorBinder.cs" caret="30" fromTop="2" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/d:Contracts/f:ITypeBinder.cs" caret="54" fromTop="3" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:ConstructorBinder.cs" caret="0" fromTop="0" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:ConstructorType.cs" caret="609" fromTop="11" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Lifecycle.cs" caret="0" fromTop="0" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:TypeConfig.cs" caret="0" fromTop="0" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:TypeBinder.cs" caret="0" fromTop="0" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Binder.cs" caret="0" fromTop="0" />
+      <File id="03A2C558-4A36-4B14-AD60-190FAF5AE27B/f:ChelasInjectionTests.cs" caret="1990" fromTop="15" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="503" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Binder.cs" caret="1573" fromTop="19" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="480" fromTop="15" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="832" fromTop="20" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="1751" fromTop="10" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="15589" fromTop="14" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="15985" fromTop="23" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="14398" fromTop="12" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="15006" fromTop="19" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="12619" fromTop="7" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="13184" fromTop="31" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="13850" fromTop="29" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="13603" fromTop="21" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="13024" fromTop="11" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="11266" fromTop="23" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="9550" fromTop="20" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="3324" fromTop="16" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="3781" fromTop="13" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="4311" fromTop="17" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="4867" fromTop="9" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="5500" fromTop="20" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="11769" fromTop="8" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="2467" fromTop="19" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="6286" fromTop="21" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="1482" fromTop="14" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="1587" fromTop="18" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="6559" fromTop="5" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="8091" fromTop="19" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="7136" fromTop="11" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="8776" fromTop="14" />
+      <File id="03A2C558-4A36-4B14-AD60-190FAF5AE27B/f:ChelasInjectionTests.cs" caret="1990" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ITypeBinder" priority="8" />
+      <Item value="private" priority="18" />
+      <Item value="prop" priority="12" />
+      <Item value="IEnumerable`0" priority="0" />
+      <Item value="IDictionary`0" priority="0" />
+      <Item value="Tests" priority="0" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="TypeConfig`0" priority="19" />
+      <Item value="new" priority="33" />
+      <Item value="TypeConfig" priority="3" />
+      <Item value="ctor" priority="5" />
+      <Item value="config" priority="57" />
+      <Item value="this" priority="72" />
+      <Item value="TSource`0" priority="7" />
+      <Item value="typeof" priority="26" />
+      <Item value="Target`0" priority="2" />
+      <Item value="IActivationBinder" priority="1" />
+      <Item value="return" priority="32" />
+      <Item value="value" priority="1" />
+      <Item value="TypeBinder&lt;Target&gt;" priority="0" />
+      <Item value="typeBinder" priority="1" />
+      <Item value="Type`0" priority="28" />
+      <Item value="constructorArguments" priority="1" />
+      <Item value="Type" priority="1" />
+      <Item value="T`0" priority="8" />
+      <Item value="public" priority="4" />
+      <Item value="Lifecycle`0" priority="0" />
+      <Item value="Lifecycle" priority="0" />
+      <Item value="PerRequest" priority="2" />
+      <Item value="TypeBinder&lt;T&gt;" priority="0" />
+      <Item value="ActivationBinder&lt;T&gt;" priority="1" />
+      <Item value="Dictionary&lt;Type,TypeConfig&gt;" priority="0" />
+      <Item value="Action`0" priority="0" />
+      <Item value="IConstructorBinder" priority="0" />
+      <Item value="internal" priority="2" />
+      <Item value="ConstructorBinder&lt;T&gt;" priority="0" />
+      <Item value="values" priority="1" />
+      <Item value="var" priority="27" />
+      <Item value="if" priority="35" />
+      <Item value="else" priority="24" />
+      <Item value="bool" priority="2" />
+      <Item value="true" priority="3" />
+      <Item value="false" priority="0" />
+      <Item value="invokeReturn" priority="1" />
+      <Item value="BindingFlags`0" priority="4" />
+      <Item value="propertiesInfo" priority="0" />
+      <Item value="using" priority="6" />
+      <Item value="System" priority="5" />
+      <Item value="Linq" priority="4" />
+      <Item value="AsEnumerable`1" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="throw" priority="6" />
+      <Item value="UnboundTypeException" priority="1" />
+      <Item value="String`0" priority="1" />
+      <Item value="default" priority="2" />
+      <Item value="instance" priority="26" />
+      <Item value="exception" priority="3" />
+      <Item value="DIChelasException" priority="0" />
+      <Item value="catch" priority="1" />
+      <Item value="CircularDependencyException`0" priority="0" />
+      <Item value="object" priority="19" />
+      <Item value="Dictionary&lt;Type,object&gt;" priority="1" />
+      <Item value="Activator`0" priority="1" />
+      <Item value="Singleton" priority="0" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="UnboundTypeException`0" priority="0" />
+      <Item value="ConstructorInfo`0" priority="8" />
+      <Item value="null" priority="24" />
+      <Item value="targetType" priority="2" />
+      <Item value="defaultConstructorInfo" priority="10" />
+      <Item value="Where`1" priority="8" />
+      <Item value="c" priority="7" />
+      <Item value="Contains`1" priority="1" />
+      <Item value="DefaultConstructorAttribute`0" priority="1" />
+      <Item value="Length" priority="8" />
+      <Item value="for" priority="0" />
+      <Item value="constructorParameters" priority="1" />
+      <Item value="ParameterInfo`0" priority="2" />
+      <Item value="constructorParametersInfo" priority="4" />
+      <Item value="parameterInfo" priority="2" />
+      <Item value="PropertyInfo`0" priority="0" />
+      <Item value="IList" priority="1" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="propertyInfos" priority="1" />
+      <Item value="Select`2" priority="1" />
+      <Item value="pi" priority="1" />
+      <Item value="result" priority="0" />
+      <Item value="propertyInfo" priority="1" />
+      <Item value="typeConfig" priority="2" />
+      <Item value="parameterValue" priority="1" />
+      <Item value="GetInstance`1" priority="3" />
+      <Item value="i" priority="1" />
+      <Item value="parameterType" priority="8" />
+      <Item value="readonly" priority="0" />
+      <Item value="type" priority="10" />
+      <Item value="t1" priority="0" />
+      <Item value="Concat`1" priority="0" />
+      <Item value="Any`1" priority="4" />
+      <Item value="constructorInfo" priority="1" />
+      <Item value="constructorArgumentsTypes" priority="1" />
+      <Item value="matchedConstructor" priority="0" />
+      <Item value="cs" priority="0" />
+      <Item value="t2" priority="1" />
+      <Item value="SequenceEqual`1" priority="0" />
+      <Item value="Action" priority="2" />
+      <Item value="initialization" priority="1" />
+      <Item value="argumentsTypes" priority="1" />
+      <Item value="All`1" priority="0" />
+      <Item value="at" priority="0" />
+      <Item value="_myBinder" priority="0" />
+      <Item value="resolvableConstructors" priority="1" />
+      <Item value="longestResolvableConstructor" priority="0" />
+      <Item value="parameterlessConstructor" priority="0" />
+      <Item value="List&lt;Type&gt;" priority="0" />
+      <Item value="CircularDependencyException" priority="0" />
+      <Item value="delegate" priority="0" />
+      <Item value="action" priority="0" />
+      <Item value="Action&lt;object&gt;" priority="0" />
+      <Item value="Attribute" priority="0" />
+      <Item value="Attribute`0" priority="0" />
+      <Item value="TAttribute`0" priority="1" />
+      <Item value="currentConfig" priority="4" />
+      <Item value="constructorsWithDefaultAttribute" priority="1" />
+      <Item value="MultipleDefaultConstructorAttributesException" priority="0" />
+      <Item value="Int32`0" priority="0" />
+      <Item value="Collections" priority="0" />
+      <Item value="Generic" priority="0" />
+      <Item value="Tuple" priority="3" />
+      <Item value="int" priority="0" />
+      <Item value="buffer" priority="1" />
+      <Item value="Tuple&lt;Type,Type&gt;" priority="4" />
+      <Item value="sourceType" priority="10" />
+      <Item value="atributeType" priority="4" />
+      <Item value="tuple" priority="4" />
+      <Item value="Dictionary&lt;Tuple&lt;Type,Type&gt;,TypeConfig&gt;" priority="0" />
+      <Item value="tp" priority="0" />
+      <Item value="List&lt;Tuple&lt;Type,Type&gt;&gt;" priority="0" />
+      <Item value="Dictionary&lt;Tuple&lt;Type,Type&gt;,object&gt;" priority="1" />
+      <Item value="SelectMany`3" priority="0" />
+      <Item value="p" priority="1" />
+      <Item value="ca" priority="3" />
+      <Item value="defaultConstructor" priority="1" />
+      <Item value="colorAtribute" priority="1" />
+      <Item value="colorAttribute" priority="1" />
+      <Item value="colorAttributeType" priority="0" />
+      <Item value="noArgumentsConstructor" priority="0" />
+      <Item value="MissingAppropriateConstructor" priority="0" />
+      <Item value="Func" priority="1" />
+      <Item value="constructorSelector" priority="0" />
+      <Item value="Func&lt;TypeConfig,ConstructorInfo&gt;" priority="0" />
+      <Item value="ConstructorType" priority="0" />
+      <Item value="DefaultConstructor" priority="0" />
+      <Item value="MatchedArgumentsConstructor" priority="0" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="2" />
+      <Item value="ConstructorType`0" priority="1" />
+      <Item value="break" priority="0" />
+      <Item value="myBinder" priority="0" />
+      <Item value="Delegate`0" priority="0" />
+      <Item value="MulticastDelegate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChelasInjection.Binder">
+      <Item value="Bindings" priority="0" />
+      <Item value="bindings" priority="5" />
+      <Item value="Bind`1" priority="1" />
+      <Item value="InternalConfigure`0" priority="0" />
+      <Item value="GetBinding`1" priority="0" />
+      <Item value="AllResolvable`0" priority="0" />
+      <Item value="EndBind`0" priority="0" />
+      <Item value="CustomResolver" priority="2" />
+      <Item value="InvokeCustomResolver`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="Add`0" priority="3" />
+      <Item value="ContainsKey`0" priority="5" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="Keys" priority="0" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChelasInjection.TypeBinder`1">
+      <Item value="activationBinder" priority="1" />
+      <Item value="WithActivation" priority="2" />
+      <Item value="Config" priority="1" />
+      <Item value="config" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChelasInjection.ActivationBinder`1">
+      <Item value="typeBinder" priority="0" />
+      <Item value="config" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChelasInjection.ITypeBinder`1">
+      <Item value="WithActivation" priority="0" />
+      <Item value="WithNoArgumentsConstructor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChelasInjection.TypeConfig">
+      <Item value="Lifecycle" priority="3" />
+      <Item value="ConstructorArguments" priority="2" />
+      <Item value="WithNoArgumentsConstructor" priority="4" />
+      <Item value="PropertiesTypes" priority="0" />
+      <Item value="TargetType" priority="19" />
+      <Item value="ObjectWithPropertiesInitializer" priority="1" />
+      <Item value="PropertiesInfos" priority="1" />
+      <Item value="ConstructorArgumentsTypes" priority="1" />
+      <Item value="InitializeObjectWith" priority="2" />
+      <Item value="AttributeSelector" priority="6" />
+      <Item value="SourceType" priority="3" />
+      <Item value="ConstructorType" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ChelasInjection.Lifecycle">
+      <Item value="Singleton" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChelasInjection.IActivationBinder`1">
+      <Item value="Singleton`0" priority="0" />
+      <Item value="PerRequest`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Type">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetProperties`0" priority="0" />
+      <Item value="FullName" priority="1" />
+      <Item value="IsAbstract" priority="0" />
+      <Item value="IsInterface" priority="0" />
+      <Item value="GetConstructors`0" priority="3" />
+      <Item value="Name" priority="1" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="IsClass" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.BindingFlags">
+      <Item value="Public" priority="1" />
+      <Item value="Instance" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChelasInjection.ConstructorBinder`1">
+      <Item value="config" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChelasInjection.Injector">
+      <Item value="_myBinder" priority="1" />
+      <Item value="lifecycleBuffer" priority="4" />
+      <Item value="ResolveWithNoArgumentsConstructor`1" priority="0" />
+      <Item value="GetDefaultConstructor`0" priority="1" />
+      <Item value="GetParameterValueFromPropertyInfo`0" priority="0" />
+      <Item value="resolvedObjects" priority="6" />
+      <Item value="GetInstance`1" priority="0" />
+      <Item value="GetInstance`0" priority="6" />
+      <Item value="GetMatchedConstructor`0" priority="0" />
+      <Item value="GetInstanceByMatchedConstructor`0" priority="0" />
+      <Item value="GetInstanceByLongestConstructor`0" priority="0" />
+      <Item value="resolvingObjects" priority="2" />
+      <Item value="GetConstructorWithDecorateParameter`0" priority="0" />
+      <Item value="GetInstanceByLongestResolvableConstructor`0" priority="0" />
+      <Item value="GetInstanceByConstructor`0" priority="0" />
+      <Item value="GetInstanceByConstructorType`0" priority="0" />
+      <Item value="GetMatchedArgumentsConstructorInfo`0" priority="0" />
+      <Item value="GetNoArgumentsConstructorInfo`0" priority="0" />
+      <Item value="GetLongestResolvableConstructor`0" priority="0" />
+      <Item value="GetDefaultConstructorInfo`0" priority="0" />
+      <Item value="myBinder" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Activator">
+      <Item value="CreateInstance`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.ConstructorInfo">
+      <Item value="GetCustomAttributes`0" priority="2" />
+      <Item value="Invoke`0" priority="2" />
+      <Item value="GetParameters`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="FirstOrDefault`1" priority="5" />
+      <Item value="ToArray`1" priority="1" />
+      <Item value="SequenceEqual`1" priority="0" />
+      <Item value="OrderByDescending`2" priority="0" />
+      <Item value="Count`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="GetType`0" priority="0" />
+      <Item value="GetValue`0" priority="0" />
+      <Item value="PropertyType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.ParameterInfo">
+      <Item value="GetType`0" priority="2" />
+      <Item value="ParameterType" priority="2" />
+      <Item value="GetCustomAttributes`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="First`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action`1">
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="0" />
+      <Item value="ContainsKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="Any`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Tuple`2">
+      <Item value="Item1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Attribute">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChelasInjection.SampleTypes.SomeClass14">
+      <Item value="Si7" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChelasInjection.SampleTypes.SomeClass13">
+      <Item value="Si7" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Func`2">
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ChelasInjection.Resolvers.ConstructorType">
+      <Item value="NoArgumentsConstructor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ChelasInjection.ConstructorType">
+      <Item value="LongestResolvableConstructor" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
